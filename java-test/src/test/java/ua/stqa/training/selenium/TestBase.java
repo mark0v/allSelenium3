@@ -26,10 +26,11 @@ public class TestBase {
             wait = new WebDriverWait(driver, 10);
             return;
         }
-        DesiredCapabilities caps = new DesiredCapabilities();
+        //DesiredCapabilities caps = new DesiredCapabilities();
+        //caps.setCapability(FirefoxDriver.MARIONETTE, false);
         //caps.setCapability(ChromeDriver);
-        //driver = new FirefoxDriver(caps);
-        driver = new ChromeDriver(caps);
+        //driver = new FirefoxDriver();
+        driver = new ChromeDriver();
         tlDriver.set(driver);
         System.out.println(((HasCapabilities) driver).getCapabilities());
         wait = new WebDriverWait(driver, 10);
@@ -40,7 +41,7 @@ public class TestBase {
 
     @After
     public void stop() {
-        driver.quit();
-        driver = null;
+       // driver.quit();
+       // driver = null;
     }
 }
