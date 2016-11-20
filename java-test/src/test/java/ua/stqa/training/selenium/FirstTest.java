@@ -15,7 +15,7 @@ public class FirstTest extends TestBase {
         driver.navigate().to("http://www.google.com");
         driver.findElement(By.name("q")).sendKeys("webdriver");
         driver.findElement(By.name("btnG")).click();
-        wait.until(titleIs("webdriver - Поиск в Google"));
+        wait.until(titleIs("webdriver - "));
     }
 
 

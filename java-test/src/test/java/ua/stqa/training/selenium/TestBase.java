@@ -10,6 +10,7 @@ import org.openqa.selenium.HasCapabilities;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -28,9 +29,12 @@ public class TestBase {
         }
         //DesiredCapabilities caps = new DesiredCapabilities();
         //caps.setCapability(FirefoxDriver.MARIONETTE, false);
-        //caps.setCapability(ChromeDriver);
+
+        //driver = new FirefoxDriver(caps);
         //driver = new FirefoxDriver();
-        driver = new ChromeDriver();
+        //driver = new ChromeDriver();
+        driver = new InternetExplorerDriver();
+
         tlDriver.set(driver);
         System.out.println(((HasCapabilities) driver).getCapabilities());
         wait = new WebDriverWait(driver, 10);
@@ -41,7 +45,7 @@ public class TestBase {
 
     @After
     public void stop() {
-       // driver.quit();
-       // driver = null;
+        driver.quit();
+        driver = null;
     }
 }
