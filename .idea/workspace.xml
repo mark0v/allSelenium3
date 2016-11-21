@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65c8426c-70a5-442e-b047-db96fad16d2f" name="Default" comment="Add test Run Browsers">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/classes/test/ua/stqa/training/selenium/FirstTest.class" afterPath="$PROJECT_DIR$/java-test/build/classes/test/ua/stqa/training/selenium/FirstTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/classes/test/ua/stqa/training/selenium/TestBase.class" afterPath="$PROJECT_DIR$/java-test/build/classes/test/ua/stqa/training/selenium/TestBase.class" />
+    <list default="true" id="65c8426c-70a5-442e-b047-db96fad16d2f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chromeAlt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFoxNightly.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorerAlt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/litecart/loginTest/loginAsAdmin.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/classes/test/ua/stqa/training/selenium/myFirstTest.class" afterPath="$PROJECT_DIR$/java-test/build/classes/test/ua/stqa/training/selenium/myFirstTest.class" />
-      <change type="MODIFICATION" beforePath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\test-results\binary\test\output.bin.idx" afterPath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\test-results\binary\test\output.bin.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/test-results/binary/test/output.bin.idx" afterPath="$PROJECT_DIR$/java-test/build/test-results/binary/test/output.bin.idx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/test-results/binary/test/output.bin" afterPath="$PROJECT_DIR$/java-test/build/test-results/binary/test/output.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\test-results\binary\test\results.bin" afterPath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\test-results\binary\test\results.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/test-results/binary/test/results.bin" afterPath="$PROJECT_DIR$/java-test/build/test-results/binary/test/results.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/FirstTest.java" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/FirstTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/TestBase.java" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/TestBase.java" />
-      <change type="MODIFICATION" beforePath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\css\base-style.css" afterPath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\css\base-style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\index.html" afterPath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/myFirstTest.java" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/myFirstTest.java" />
-      <change type="MODIFICATION" beforePath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\js\report.js" afterPath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\js\report.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/runerBrowser.java" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/runerBrowser.java" />
-      <change type="MODIFICATION" beforePath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\css\style.css" afterPath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\css\style.css" />
-      <change type="MODIFICATION" beforePath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\packages\ua.stqa.training.selenium.html" afterPath="C:\Users\Alexander\IdeaProjects\allSelenium3\java-test\build\reports\tests\packages\ua.stqa.training.selenium.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFox.java" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFox.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/reports/tests/index.html" afterPath="$PROJECT_DIR$/java-test/build/reports/tests/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorer.java" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="allSelenium3.iws" />
@@ -76,21 +67,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="runerBrowser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/runerBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,48 +79,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myFirstTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/myFirstTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="56" selection-start-line="13" selection-start-column="7" selection-end-line="17" selection-end-column="56" />
-              <folding>
-                <element signature="docComment;class#myFirstTest#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fireFox.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fireFox.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="52" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.83247423">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="internetExplorer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorer.java">
+      <file leaf-file-name="fireFoxNightly.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFoxNightly.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31578946">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,7 +105,59 @@
         <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="52" />
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myFirstTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/myFirstTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="docComment;class#myFirstTest#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="internetExplorer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="internetExplorerAlt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorerAlt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chromeAlt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chromeAlt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="52" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chrome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="1" selection-start-line="14" selection-start-column="3" selection-end-line="37" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -477,8 +486,14 @@
         <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/runerBrowser.java" />
         <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/myFirstTest.java" />
         <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chrome.java" />
-        <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFox.java" />
+        <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/litecart/loginTest/loginAsAdmin.java" />
+        <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chromeAlt.java" />
         <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorer.java" />
+        <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/interbetExplorerAlt.java" />
+        <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorerAlt.java" />
+        <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFoxOld.java" />
+        <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFoxNightly.java" />
+        <option value="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFox.java" />
       </list>
     </option>
   </component>
@@ -499,7 +514,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1370" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -618,6 +633,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allSelenium3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="selenium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loginTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -649,51 +694,13 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Gradle.chrome">
-    <configuration default="false" name="myFirstTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="JUnit.fireFox">
+    <configuration default="false" name="chromeAlt" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/java-test" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests ua.stqa.training.selenium.myFirstTest" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="cleanTest" />
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="false" name="runerBrowser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/java-test" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests ua.stqa.training.selenium.runerBrowser" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="cleanTest" />
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="false" name="internetExplorer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/java-test" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests ua.stqa.training.selenium.RunBrowsers.internetExplorer" />
+        <option name="scriptParameters" value="--tests ua.stqa.training.selenium.RunBrowsers.chromeAlt" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -733,12 +740,57 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="chrome" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="loginAsAdmin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ua.stqa.training.selenium.litecart.loginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ua.stqa.training.selenium.litecart.loginTest" />
+      <option name="MAIN_CLASS_NAME" value="ua.stqa.training.selenium.litecart.loginTest.loginAsAdmin" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="fireFoxOld" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/java-test" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests ua.stqa.training.selenium.RunBrowsers.chrome" />
+        <option name="scriptParameters" value="--tests ua.stqa.training.selenium.RunBrowsers.fireFoxOld" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanTest" />
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="fireFoxNightly" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-test" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests ua.stqa.training.selenium.RunBrowsers.fireFoxNightly" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -1011,20 +1063,40 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Gradle.myFirstTest" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.runerBrowser" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.internetExplorer" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.fireFox" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.chrome" />
+    <configuration default="false" name="internetExplorer" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-test" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests ua.stqa.training.selenium.RunBrowsers.internetExplorer" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanTest" />
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Gradle.internetExplorer" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.chromeAlt" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.fireFox" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.loginAsAdmin" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.fireFoxOld" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.fireFoxNightly" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.chrome" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.fireFox" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.internetExplorer" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.myFirstTest" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.runerBrowser" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.fireFox" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.fireFoxNightly" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.fireFoxOld" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.chromeAlt" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.loginAsAdmin" />
       </list>
     </recent_temporary>
   </component>
@@ -1049,7 +1121,7 @@
       <workItem from="1479664324020" duration="1348000" />
       <workItem from="1479665724866" duration="674000" />
       <workItem from="1479666637634" duration="2901000" />
-      <workItem from="1479669567922" duration="5275000" />
+      <workItem from="1479669567922" duration="13134000" />
     </task>
     <task id="LOCAL-00001" summary="Add first test example">
       <created>1479541521831</created>
@@ -1069,11 +1141,17 @@
       <option name="project" value="LOCAL" />
       <updated>1479575692196</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add tests for  Run Browsers separately.">
+      <created>1479679545755</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1479679545755</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27039000" />
+    <option name="totallyTimeSpent" value="34898000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1085,23 +1163,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.49241275" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.547041" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42647058" sideWeight="0.2427481" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32026145" sideWeight="0.24281392" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789558" sideWeight="0.4939302" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42647058" sideWeight="0.7572519" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32026145" sideWeight="0.75718606" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.49573562" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24656488" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17019667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18244275" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20801815" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1136,7 +1214,8 @@
     <MESSAGE value="Add first test example" />
     <MESSAGE value="Add first test example2" />
     <MESSAGE value="Add test Run Browsers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add test Run Browsers" />
+    <MESSAGE value="Add tests for  Run Browsers separately." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tests for  Run Browsers separately." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1169,7 +1248,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="12" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1178,38 +1257,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-test/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/FirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/FirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-test/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1223,7 +1270,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1274,7 +1321,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1325,7 +1372,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1376,7 +1423,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1434,7 +1481,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1544,40 +1591,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/TestBase.java">
+    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/litecart/loginTest/loginAsAdmin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="52" />
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;class#loginAsAdmin#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/runerBrowser.java">
+    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/myFirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="56" selection-start-line="13" selection-start-column="7" selection-end-line="17" selection-end-column="56" />
-          <folding>
-            <element signature="docComment;class#myFirstTest#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="52" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="52" />
+          <caret line="37" column="1" selection-start-line="14" selection-start-column="3" selection-end-line="37" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1592,20 +1620,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chrome.java">
+    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/myFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#myFirstTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/runerBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31578946">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/internetExplorerAlt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/chromeAlt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFoxNightly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/RunBrowsers/fireFox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83247423">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
