@@ -15,6 +15,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.io.File;
 import java.util.concurrent.TimeUnit;
 
+import static org.openqa.selenium.support.ui.ExpectedConditions.presenceOfElementLocated;
+
 /**
  * Created by Alexander on 11/21/2016.
  */
@@ -34,11 +36,19 @@ public class fireFoxNightly {
     }
 
     @Test
-    public void runFireFox(){
+    public void runFireFoxNightly(){
         driver.navigate().to("http://www.google.com");
         driver.findElement(By.name("q")).sendKeys("webdriver");
         driver.findElement(By.name("btnG")).click();
         //wait.until(titleIs("webdriver - Пошук Google"));
+    }
+    @Test
+    public void loginAsAdminNightly(){
+        driver.navigate().to("http://localhost/litecart/admin/");
+        driver.findElement(By.name("username")).sendKeys("admin");
+        driver.findElement(By.name("password")).sendKeys("admin");
+        driver.findElement(By.name("login")).click();
+        wait.until(presenceOfElementLocated(By.cssSelector(".fa.fa-sign-out.fa-lg")));
     }
 
     @After
