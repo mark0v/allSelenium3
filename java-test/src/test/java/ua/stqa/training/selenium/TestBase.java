@@ -6,6 +6,7 @@ package ua.stqa.training.selenium;
 
 import org.junit.After;
 import org.junit.Before;
+import org.openqa.selenium.By;
 import org.openqa.selenium.HasCapabilities;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -32,8 +33,8 @@ public class TestBase {
 
         //driver = new FirefoxDriver(caps);
         //driver = new FirefoxDriver();
-        //driver = new ChromeDriver();
-        driver = new InternetExplorerDriver();
+        driver = new ChromeDriver();
+        //driver = new InternetExplorerDriver();
 
         tlDriver.set(driver);
         System.out.println(((HasCapabilities) driver).getCapabilities());
@@ -45,7 +46,14 @@ public class TestBase {
 
     @After
     public void stop() {
-        driver.quit();
-        driver = null;
+        //driver.quit();
+        //driver = null;
+    }
+
+    public void loginAsAdmin(){
+        driver.navigate().to("http://localhost/litecart/admin/");
+        driver.findElement(By.name("username")).sendKeys("admin");
+        driver.findElement(By.name("password")).sendKeys("admin");
+        driver.findElement(By.name("login")).click();
     }
 }
