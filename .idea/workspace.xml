@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65c8426c-70a5-442e-b047-db96fad16d2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/litecart/loginTest/MenueNavigationPages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/litecart/loginTest/mainMenueOpenPages.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/test-results/binary/test/output.bin.idx" afterPath="$PROJECT_DIR$/java-test/build/test-results/binary/test/output.bin.idx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/test-results/binary/test/output.bin" afterPath="$PROJECT_DIR$/java-test/build/test-results/binary/test/output.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/test-results/binary/test/results.bin" afterPath="$PROJECT_DIR$/java-test/build/test-results/binary/test/results.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/java-test/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/TestBase.java" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/TestBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/reports/tests/index.html" afterPath="$PROJECT_DIR$/java-test/build/reports/tests/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/build/classes/test/ua/stqa/training/selenium/TestBase.class" afterPath="$PROJECT_DIR$/java-test/build/classes/test/ua/stqa/training/selenium/TestBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/litecart/loginTest/mainMenueOpenPages.java" afterPath="$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/litecart/loginTest/mainMenueOpenPages.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="allSelenium3.iws" />
@@ -67,8 +57,8 @@
       <file leaf-file-name="mainMenueOpenPages.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/litecart/loginTest/mainMenueOpenPages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62407863">
-              <caret line="29" column="13" selection-start-line="23" selection-start-column="7" selection-end-line="29" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.81772155">
+              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -988,7 +978,7 @@
       <workItem from="1479664324020" duration="1348000" />
       <workItem from="1479665724866" duration="674000" />
       <workItem from="1479666637634" duration="2901000" />
-      <workItem from="1479669567922" duration="30426000" />
+      <workItem from="1479669567922" duration="31296000" />
     </task>
     <task id="LOCAL-00001" summary="Add first test example">
       <created>1479541521831</created>
@@ -1026,11 +1016,17 @@
       <option name="project" value="LOCAL" />
       <updated>1479769024640</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Test: Open all menu item and all submenu if exist.">
+      <created>1480022416907</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1480022416907</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52190000" />
+    <option name="totallyTimeSpent" value="53060000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1049,11 +1045,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.49241275" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5378215" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28921568" sideWeight="0.2700454" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30882353" sideWeight="0.2700454" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789558" sideWeight="0.4939302" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28921568" sideWeight="0.7299546" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30882353" sideWeight="0.7299546" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.4924357" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2912254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1096,7 +1092,8 @@
     <MESSAGE value="Add tests for  Run Browsers separately." />
     <MESSAGE value="Add Test Login to litecart.&#10;Add tests run Nightly browser and run as old mode." />
     <MESSAGE value="Add login test for all browsers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add login test for all browsers" />
+    <MESSAGE value="Add Test: Open all menu item and all submenu if exist." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Test: Open all menu item and all submenu if exist." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1571,8 +1568,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-test/src/test/java/ua/stqa/training/selenium/litecart/loginTest/mainMenueOpenPages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62407863">
-          <caret line="29" column="13" selection-start-line="23" selection-start-column="7" selection-end-line="29" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.81772155">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

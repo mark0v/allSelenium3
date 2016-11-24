@@ -5,11 +5,8 @@ import org.omg.CORBA.PUBLIC_MEMBER;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import ua.stqa.training.selenium.TestBase;
-
-import java.util.ArrayList;
-import java.util.Enumeration;
-import java.util.Iterator;
-import java.util.List;
+import org.junit.Assert;
+import java.util.*;
 
 /**
  * Created by Alexander on 11/22/2016.
@@ -25,6 +22,7 @@ public class mainMenueOpenPages extends TestBase{
         for(String name : names){
             if(!isMenueSelected(name)){
                 clickMenueByName(name);
+                Assert.assertTrue(isElementPresent(By.xpath(".//*[@id='content']/h1")));
                 System.out.println("Click by MENUE: " + name);
                 clickingSubMenue(name);
             }
@@ -52,11 +50,19 @@ public class mainMenueOpenPages extends TestBase{
             String subMenueName = driver.findElement(By.xpath(".//li[contains(.,'"+ MenueName +"')]/ul/li["+ index +"]")).getText();
             System.out.println("Click by SubMenue: " + subMenueName);
             index++;
+            Assert.assertTrue(isElementPresent(By.xpath(".//*[@id='content']/h1")));
         }
         System.out.println("-----------------------------");
     }
 
     public void clickMenueByName(String nameMenue){
         driver.findElement(By.xpath("//a[contains(.,'"+ nameMenue +"')]")).click();
+    }
+
+    public boolean isElementPresent(By by){
+        try {
+            driver.findElement(by);
+            return true;
+        } catch (NoSuchElementException ex){return false;}
     }
 }
