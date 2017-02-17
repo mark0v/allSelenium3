@@ -29,7 +29,7 @@ public class loginAsAdmin {
 
     @Test
     public void runChrome(){
-        driver.navigate().to("http://localhost/litecart/admin/");
+        driver.navigate().to("192.168.1.76/litecart/admin/");
         driver.findElement(By.name("username")).sendKeys("admin");
         driver.findElement(By.name("password")).sendKeys("admin");
         driver.findElement(By.name("login")).click();
